@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🔭 I’m @MakiWolf
-- 🌱 I’m currently learning programming
 - 📫 How to reach me: write me on github
 
 
